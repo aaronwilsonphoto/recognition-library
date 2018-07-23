@@ -1,0 +1,148 @@
+/* Add here all your CSS customizations */
+
+
+/*Add left margin*/
+.add-left-margin {
+	margin-left: 10px;
+}
+
+.add-top-margin {
+	margin-top: 85px;
+}
+
+.bigger-text {
+	font-size: 1.5em;
+	line-height: 1.5em;
+}
+
+.nav-tabs .nav-item .nav-link.active {
+	color: #008aab;
+	font-weight: 600;
+/*	border: 1px solid #008aab;
+	border-radius: 5px;*/
+}
+
+@media (max-width: 990px) {
+	.mobile-noshow {
+		display: none;
+	}
+	p.footer-style {
+	margin-top: 0rem;
+	}
+	.no-margin-mobile {
+		padding-top: 0px!important;
+	}
+
+}
+
+p.footer-style {
+	margin-top: 1.2rem;
+	color: white;
+}
+
+#footer a {
+	color: white;
+}
+
+@media (min-width: 992px) {
+	.pt-lg-2, .py-lg-2 {
+	    padding-top: 0rem!important;
+	}
+
+/*	.mb-5, .my-5 {
+		margin-bottom: 0px!important;
+	}*/
+}
+
+
+/*Rank Colors*/
+.text-color-associate {
+	color: #20bed4;
+}
+.background-associate {
+	background-color: #20bed4;
+}
+h3.headline-associate {
+	text-decoration: underline solid #20bed4;
+}
+
+
+.text-color-bronze {
+	color: #9b5123;
+}
+.background-bronze {
+	background-color: #9b5123;
+}
+h3.headline-bronze {
+	text-decoration: underline solid #9b5123;
+}
+
+.text-color-silver {
+	color: #231f20;
+}
+.background-silver {
+	background-color: #231f20;
+}
+h3.headline-silver {
+	text-decoration: underline solid #231f20;
+}
+
+.text-color-gold {
+	color: #896828;
+}
+.background-gold {
+	background-color: #896828;
+}
+h3.headline-gold {
+	text-decoration: underline solid #896828;
+}
+
+.text-color-platinum {
+	color: #7b99ac;
+}
+.background-platinum {
+	background-color: #7b99ac;
+}
+h3.headline-platinum {
+	text-decoration: underline solid #7b99ac;
+}
+
+.text-color-diamond {
+	color: #008aab;
+}
+.background-diamond {
+	background-color: #008aab;
+}
+h3.headline-diamond {
+	text-decoration: underline solid #008aab;
+}
+
+.text-color-double {
+	color: #592c82;
+}
+.background-double {
+	background-color: #592c82;
+}
+h3.headline-double {
+	text-decoration: underline solid #592c82;
+}
+
+.text-color-triple {
+	color: #4b9f45;
+}
+.background-triple {
+	background-color: #4b9f45;
+}
+h3.headline-triple {
+	text-decoration: underline solid #4b9f45;
+}
+
+.text-color-crown {
+	color: #a91c36;
+}
+.background-crown {
+	background-color: #a91c36;
+}
+h3.headline-crown {
+	text-decoration: underline solid #a91c36;
+}
